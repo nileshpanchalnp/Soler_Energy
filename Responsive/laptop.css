@@ -1,0 +1,890 @@
+/* Size 13 */
+@media (max-width:1348px) {
+    .navbar {
+        width: 100%;
+        height: 75px;
+    }
+}
+
+/*=======================Size 1024px to 1348px========================*/
+@media (min-width:1024px) and (max-width:1347px) {
+    #btn-new-one {
+        margin-left: auto;
+    }
+
+    .carousel-item h2 {
+        font-size: 59px;
+        font-weight: 800;
+        line-height: 69px;
+    }
+
+    .erat {
+        font-size: 15px;
+        line-height: 24px;
+        margin-top: 5px;
+    }
+
+    /* third section */
+    .energy h6 {
+        font-size: 16px;
+    }
+
+    .energy h3 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+
+    .energy {
+        padding: 11px 62px;
+    }
+
+    .energy p {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    #renew {
+        padding-top: 40px;
+    }
+
+    /* forth section */
+    .solar-pan {
+        width: 304px;
+        height: 419px;
+    }
+
+    .service-icon {
+        margin: -130px 0px 25px -6px;
+    }
+
+    .sed {
+        font-size: 14px;
+    }
+
+    /* section five */
+    #workers {
+        height: auto;
+    }
+
+    .Choose h3 {
+        font-size: 37px;
+        line-height: 44px;
+    }
+
+    .complet {
+        padding: 0px 23px;
+    }
+
+    .Choose p {
+        padding-top: 16px;
+        font-size: 15px;
+    }
+
+    /* section Six */
+    #img-height {
+        width: 301px;
+    }
+
+    .solar-panel {
+        width: 320px;
+    }
+
+    .solar-panel p {
+        font-size: 15px;
+    }
+
+    /* Eight section */
+    .main-card {
+        width: auto;
+        height: 369px;
+    }
+
+    .icon-body {
+        padding-top: 95px;
+        padding-left: 12px;
+    }
+
+    /* =======================nine section============ */
+    .signUP {
+        left: 120px;
+    }
+
+}
+
+/* =======================Size 768px to 1023px==========================*/
+@media (min-width:768px) and (max-width:1023px) {
+    #navbarNavDropdown {
+        position: relative;
+        top: -8px;
+    }
+
+    #telephone {
+        display: none;
+    }
+
+    .navbar-toggler {
+        margin-right: 37px;
+        margin-bottom: 12px;
+    }
+
+    #btn-new-one {
+        display: none;
+    }
+
+    .carousel-item h2 {
+        font-size: 50px;
+        font-weight: 800;
+        line-height: 65px;
+    }
+
+    .justo {
+        padding: 10% 10%;
+    }
+
+    .carousel-item p {
+        font-size: 18px;
+    }
+
+    .img-one,
+    .img-two,
+    .img-three {
+        height: 440px;
+    }
+
+    .first_solar {
+        height: auto;
+    }
+
+    /* second section */
+    .custom {
+        width: 172px;
+        height: 209px;
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    }
+
+    .sqaure_btn {
+        width: 43px;
+        height: 43px;
+        font-size: 10px;
+    }
+
+    #dolar {
+        box-shadow: none;
+    }
+
+    .stat-count {
+        font-size: 28px;
+    }
+
+    .erat {
+        font-size: 17px;
+        line-height: 20px;
+        padding: 2px 20px;
+    }
+
+    .milestone-counter {
+        padding: 0px 11px;
+        padding-top: 8px;
+    }
+
+    .milestone-details {
+        font-size: 18px;
+        padding-left: 16px;
+    }
+
+    /* third section */
+    .energy {
+        padding: 51px 98px;
+    }
+
+    .energy h3 {
+        font-size: 44px;
+        line-height: 45px;
+        margin-bottom: 0px;
+    }
+
+    .ipsum {
+        font-size: 16px;
+    }
+
+    .energy p {
+        font-size: 19px;
+        line-height: 28px;
+    }
+
+    #renew {
+        padding-top: 56px;
+    }
+
+    /* forth section */
+    .solar-pan {
+        width: 333px;
+        height: 438px;
+    }
+
+    .service-icon {
+        margin: -130px 0px 25px -4px;
+    }
+
+    #hide {
+        display: none;
+    }
+
+    .sed {
+        font-size: 16px;
+    }
+
+    /* section five */
+    .complet {
+        padding: 0px 98px;
+    }
+
+    .Choose {
+        padding: 42px 30px;
+    }
+
+    .Choose h3 {
+        font-size: 42px;
+    }
+
+    .Choose p {
+        font-size: 17px;
+    }
+
+    /* Eight section */
+    .main-card {
+        width: auto;
+        height: 390px;
+    }
+
+    .icon-body {
+        padding-top: 122px;
+        padding-left: 20px;
+    }
+
+    /* =======================nine section============ */
+    .signUP {
+        left: 221px;
+    }
+   
+    
+    #fix {
+        position: fixed;
+        z-index: 10px;
+        background-color: transparent;
+        background-color: rgba(255, 255, 255, 0.783);
+    }
+
+}
+
+/*================== Size 425px to 768px====================================*/
+@media (min-width:425px) and (max-width:767px) {
+    #navbarNavDropdown {
+        position: relative;
+        top: -8px;
+    }
+
+    #telephone {
+        display: none;
+    }
+
+    #btn-new-one {
+        display: none;
+    }
+
+    .carousel-item h2 {
+        font-size: 50px;
+        letter-spacing: 2px;
+        font-weight: 400;
+        line-height: 43px;
+    }
+
+    .carousel-item p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .navbar-toggler {
+        margin-right: 37px;
+        margin-bottom: 12px;
+    }
+
+    .first_solar {
+        height: auto;
+    }
+
+    .navbar-brand {
+        line-height: 50px;
+        font-size: 50px;
+    }
+
+    .img-one,
+    .img-two,
+    .img-three {
+        height: 485px;
+    }
+
+    .btn_one {
+        width: 150px;
+    }
+
+    /* section two */
+    .diam:hover {
+        box-shadow: none;
+    }
+
+    .diam {
+        width: 291px;
+        height: 220px;
+    }
+
+    .custom {
+        width: 340px;
+        height: 202px;
+        padding-left: 45px;
+        margin-left: 30px;
+        border-radius: 10px;
+        box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+    }
+
+    .milestone-counter {
+        padding-top: 22px;
+    }
+
+    #dollar {
+        box-shadow: none;
+    }
+
+
+    /* section third*/
+    .energy {
+        padding: 48px 27px;
+    }
+
+    .energy h3 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+
+    .energy p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    #renew {
+        padding-top: 33px;
+    }
+
+    /* forth section */
+    .solar-pan {
+        margin: 10px 19px;
+    }
+
+    #hide {
+        display: block;
+    }
+
+    #ultra {
+        background-color: white;
+        color: #32C36C;
+    }
+
+    /* five section */
+    .complet {
+        padding: 0px 5px;
+    }
+
+    .Choose {
+        width: 394px;
+    }
+
+    .Choose h3 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+
+    .Choose p {
+        padding-top: 19px;
+        font-size: 13px;
+    }
+
+    /* section Six */
+    #project h2 {
+        font-size: 27px;
+    }
+
+    .wind-panel li {
+        font-size: 12px;
+    }
+
+    #img-height {
+        width: 396px;
+        height: 215px;
+    }
+
+    /* section seven */
+    .testing p {
+        line-height: normal;
+        font-size: 23px;
+    }
+
+    .testing h2 {
+        font-size: 26px;
+    }
+
+    /* Eight section */
+    .main-card {
+        width: auto;
+        height: 405px;
+    }
+
+    .icon-body {
+        padding-top: 132px;
+        padding-left: 40px;
+    }
+
+    #gallery {
+        display: none;
+    }
+
+    .signUP {
+        left: 263px;
+    }
+    #home {
+        position: relative;
+        top: 36px;
+    }
+    
+    #fix {
+        position: fixed;
+        z-index: 10px;
+        background-color: transparent;
+        background-color: rgba(255, 255, 255, 0.783);
+    }
+}
+
+/*============================= Size 375px to 424px================================== */
+@media (min-width:375px) and (max-width:423px) {
+    #navbarNavDropdown {
+        position: relative;
+        top: -8px;
+    }
+
+    #telephone {
+        display: none;
+    }
+
+    .diam:hover,
+    #dolar {
+        box-shadow: none;
+    }
+
+    .diam {
+        background: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    }
+
+    #btn-new-one {
+        display: none;
+    }
+
+    .carousel-item h2 {
+        font-size: 50px;
+        letter-spacing: 2px;
+        font-weight: 400;
+        line-height: 43px;
+    }
+
+    .carousel-item p {
+        font-size: 20 px;
+        line-height: 28px;
+    }
+
+    .navbar-toggler {
+        margin-right: 37px;
+        margin-bottom: 12px;
+    }
+
+    .first_solar {
+        height: auto;
+    }
+
+    .navbar-brand {
+        line-height: 50px;
+        font-size: 50px;
+    }
+
+    .img-one,
+    .img-two,
+    .img-three {
+        height: 485px;
+    }
+
+    .btn_one {
+        width: 150px;
+    }
+
+    #solo {
+        padding-top: 5px;
+    }
+
+    .milestone-counter {
+        padding-top: 8px;
+    }
+
+    .custom {
+        width: 293px;
+        height: 175px;
+        padding-left: 23px;
+        margin-left: 30px;
+        border-radius: 10px;
+        box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+    }
+
+    .erat {
+        font-size: 16px;
+        line-height: 22px;
+        padding-top: 10px;
+    }
+
+    /* section third*/
+    .energy {
+        padding: 48px 27px;
+    }
+
+    .energy h3 {
+        font-size: 23px;
+        line-height: 29px;
+    }
+
+    .energy p {
+        font-size: 11px;
+        line-height: 21px;
+    }
+
+    #renew {
+        padding-top: 33px;
+    }
+
+    /* section four */
+    .panels {
+        width: 230px;
+    }
+
+    .solar-pan {
+        width: 296px;
+        height: 438px;
+        margin-left: 27px;
+        /* margin-left: 39px;
+        margin-top: 18px; */
+    }
+
+    .sed {
+        font-size: 14px;
+    }
+
+    #ultra {
+        background-color: white;
+        color: #32C36C;
+    }
+
+    #hide {
+        display: block;
+    }
+
+    /* five section */
+    .complet {
+        padding: 0px 5px;
+    }
+
+    .Choose {
+        width: 100%;
+        padding: 17px 0px;
+    }
+
+    .Choose h3 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+
+    .Choose p {
+        padding-top: 5px;
+        font-size: 12px;
+
+    }
+
+    /* six section */
+    #img-height {
+        width: 343px;
+        height: 203px;
+    }
+
+    #project h2 {
+        font-size: 21px;
+        font-weight: 600;
+    }
+
+    .wind-panel li {
+        font-size: 9px;
+    }
+
+    /* section seven */
+    .testing p {
+        line-height: 19px;
+        font-size: 10px;
+    }
+
+    .testing h2 {
+        font-size: 32px;
+        font-weight: 400;
+    }
+
+    /* Eight section */
+    .main-card {
+        width: auto;
+    }
+
+    .icon-body {
+        padding-left: 21px;
+        padding-top: 124px;
+    }
+
+    #gallery {
+        display: none;
+    }
+
+    .signUP {
+        left: 214px;
+    }
+    #home {
+        position: relative;
+        top: 36px;
+    }
+    
+    #fix {
+        position: fixed;
+        z-index: 10px;
+        background-color: transparent;
+        background-color: rgba(255, 255, 255, 0.783);
+    }
+}
+
+/*================== Size 320px to 374px====================================*/
+@media (min-width:320px) and (max-width:374px) {
+    #navbarNavDropdown {
+        position: relative;
+        top: -8px;
+    }
+
+    #telephone {
+        display: none;
+    }
+
+    #btn-new-one {
+        display: none;
+    }
+
+    .carousel-item h2 {
+        font-size: 24px;
+        line-height: 32px;
+        font-weight: 600;
+    }
+
+    .carousel-item p {
+        line-height: 28px;
+    }
+
+    .navbar-toggler {
+        margin-right: 37px;
+        margin-bottom: 12px;
+    }
+
+    .first_solar {
+        height: auto;
+    }
+
+    .img-one,
+    .img-two,
+    .img-three {
+        height: 398px;
+    }
+
+    .btn_one {
+        width: 150px;
+    }
+
+    /* second sectin */
+    #solo {
+        padding-top: 0px;
+    }
+
+    .diam:hover {
+        box-shadow: none;
+    }
+
+    #dolar {
+        box-shadow: none;
+    }
+
+    .milestone-counter {
+        padding-top: 9px
+    }
+
+    .custom {
+        width: 286px;
+        height: 175px;
+        padding-left: 23px;
+        margin: auto;
+        border-radius: 10px;
+        box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+    }
+
+    /* third section */
+    .energy {
+        padding: 66px 26px;
+    }
+
+    .energy h3 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+
+    .energy h6 {
+        font-size: 14px;
+    }
+
+    .energy p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    /* four section */
+    .solar-pan {
+        width: 289px;
+        height: 430px;
+        display: block;
+        gap: 10px;
+        margin: auto;
+    }
+
+    .panels {
+        width: 230px;
+    }
+
+    .sed {
+        font-size: 14px;
+    }
+
+    #ultra {
+        background-color: white;
+        color: #32C36C;
+    }
+
+    #hide {
+        display: block;
+    }
+
+    #just {
+        display: block;
+        justify-content: center;
+    }
+
+    /*====================== section five=========================== */
+    .complet {
+        padding: 0px 5px;
+    }
+
+    .Choose {
+        width: 100%;
+        padding: 17px 0px;
+    }
+
+    .Choose h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .Choose p {
+        font-size: 16px;
+        padding: 3px 7px;
+    }
+
+    /*=================== section six================================ */
+    #img-height,
+    .solar-panel {
+        width: 100%;
+    }
+
+    .pioneers {
+        width: auto;
+        height: auto;
+    }
+
+    #project h2,
+    .solar-panel h5 {
+        font-size: 18px;
+
+    }
+
+    .wind-panel {
+        gap: 17px;
+    }
+
+    .wind-panel li {
+        font-size: 10px;
+    }
+
+    .solar-panel p {
+        font-size: 16px;
+    }
+
+    /*======================== section seven ====================*/
+    .testing p {
+        line-height: 21px;
+        font-size: 16px;
+
+    }
+
+    .testing h2 {
+        font-size: 25px;
+    }
+
+    /*======================= Eight section===================== */
+    .main-card {
+        width: auto;
+        height: auto;
+        padding-bottom: 15px;
+    }
+
+    .icon-body {
+        padding-left: 12px;
+        padding-top: 82px;
+    }
+
+    .text-center h2 {
+        font-size: 30px;
+        font-weight: 600;
+        font-family: "Open Sans", sans-serif;
+    }
+
+    /* ======================= Nine Section =================== */
+    #gallery {
+        display: none;
+    }
+
+    .signUP {
+        left: 174px;
+    }
+
+    #home {
+        position: relative;
+        top: 36px;
+    }
+    
+    #fix {
+        position: fixed;
+        z-index: 10px;
+        background-color: transparent;
+        background-color: rgba(255, 255, 255, 0.783);
+    }
+  
+}
